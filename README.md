@@ -5,9 +5,10 @@ Maindax is a hybrid digital assets exchange that acts as a bridge to the new dig
 
 ## Installation Preview
 
-![Installation Preview]([Dragster.jpg](https://github.com/maindao/desktop/blob/main/install.PNG))
+
+![Installation Preview](https://github.com/maindao/desktop/blob/main/install.PNG)
 
 ## PC Preview
-![desktop preview]([Dragster.jpg](https://github.com/maindao/desktop/blob/main/mock.PNG))
+![Installation Preview](https://github.com/maindao/desktop/blob/main/mock.PNG)
 
 Check installation on releases section ( right side).
