@@ -1,13 +1,13 @@
-# Desktop Client
+# Windows Desktop Client ( Laptop & PC)
 Maindax Exchange Desktop Client
 
 Maindax is a hybrid digital assets exchange that acts as a bridge to the new digital economy. On launch, Maindax will offer over 100 market pairs for spot trading. Maindax offers trading services for major cryptocurrencies against USDT, MAIN, and BTC currency pairs.
 
 ## Installation Preview
 
-![Installation Preview](Dragster.jpg)
+![Installation Preview]([Dragster.jpg](https://github.com/maindao/desktop/blob/main/install.PNG))
 
 ## PC Preview
-![desktop preview](Dragster.jpg)
+![desktop preview]([Dragster.jpg](https://github.com/maindao/desktop/blob/main/mock.PNG))
 
 Check installation on releases section ( right side).
